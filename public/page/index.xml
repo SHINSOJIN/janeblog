@@ -7,41 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
+&lt;h4 id=&#34;environments&#34;&gt;Environments&lt;/h4&gt;
+&lt;img src=&#34;https://img.shields.io/badge/webstorm-000000?style=for-the-badge&amp;logo=webstorm&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;h4 id=&#34;config&#34;&gt;Config&lt;/h4&gt;
+&lt;img src=&#34;https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&amp;logo=yarn&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;h4 id=&#34;development&#34;&gt;Development&lt;/h4&gt;
+&lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34; alt=&#34;badge&#34;&gt;
+&lt;h1 id=&#34;career&#34;&gt;Career&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;[2022.07 ~   재직중 ] 자연어 AI 기업에서 프론드엔드 개발 담당&lt;/li&gt;
+&lt;li&gt;[2021.06 ~ 2022.06] 의료 AI 기업에서 (코스닥 상장사) 프론드엔드 개발 담당&lt;/li&gt;
+&lt;li&gt;[2021.04 ~ 2021.06] 이미지 기반 인공지능 개발자 과정 수강&lt;/li&gt;
+&lt;li&gt;[2021.02 ~ 2021.04] 코드스테이츠 웹개발자 양성과정 수강&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project&#34;&gt;Project&lt;/h1&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>http://localhost:1313/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Links</title>
