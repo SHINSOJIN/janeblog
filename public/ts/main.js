@@ -17,7 +17,7 @@
       this.items = [];
       const figures = container.querySelectorAll("figure.gallery-image");
       for (const el of figures) {
-        const figcaption = el.querySelector("figcaption"), img = el.querySelector("img");
+        const figcaption = el.querySelector("figcaption"), img = el.querySelector("assets");
         let aux = {
           w: parseInt(img.getAttribute("width")),
           h: parseInt(img.getAttribute("height")),
@@ -32,7 +32,7 @@
       }
     }
     static createGallery(container) {
-      const images = container.querySelectorAll("img.gallery-image");
+      const images = container.querySelectorAll("assets.gallery-image");
       for (const img of Array.from(images)) {
         const paragraph = img.closest("p");
         if (!paragraph || !container.contains(paragraph))
@@ -85,7 +85,7 @@
     }
     /**
      * Wrap adjacent figure tags with div.gallery
-     * @param figures 
+     * @param figures
      */
     static wrap(figures) {
       const galleryContainer = document.createElement("div");
@@ -457,7 +457,7 @@
             observer2.unobserve(entry.target);
             const articles = entry.target.querySelectorAll("article.has-image");
             articles.forEach(async (articles2) => {
-              const image = articles2.querySelector("img"), imageURL = image.src, key = image.getAttribute("data-key"), hash = image.getAttribute("data-hash"), articleDetails = articles2.querySelector(".article-details");
+              const image = articles2.querySelector("assets"), imageURL = image.src, key = image.getAttribute("data-key"), hash = image.getAttribute("data-hash"), articleDetails = articles2.querySelector(".article-details");
               const colors = await getColor(key, hash, imageURL);
               articleDetails.style.background = `
                         linear-gradient(0deg, 

@@ -11,18 +11,26 @@ tags = [
 categories = [
     "project",
 ]
-series = ["Themes Guide"]
+series = ["work experience"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
+## 기술 스택
+- **프론트엔드:**
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" style="display:inline;">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="display:inline;">
+  <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="display:inline;">
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" style="display:inline;">
 
+
+ 
 ## 이미지 모아보기
 |                      홈 - 싱글모드                      |                     홈 - 듀얼모드                     |
 |:--------------------------------------------------:|:------------------------------------------------:|
-| ![image](../../../assets/img/deep_main_single.png) |   ![image](../../../assets/img/deep_main.jpeg)   |
+| ![image](../assets/image/deep_main_single.png) |   ![image](../assets/image/deep_main.jpeg)   |
 |                        히스토리                        |                       대시보드                       |
-|    ![image](../../../assets/img/deep_store.png)    | ![image](../../../assets/img/deep_dashboard.png) |
+|    ![image](../assets/image/deep_store.png)    | ![image](../assets/image/deep_dashboard.png) |
 
 
 ## 설명
