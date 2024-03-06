@@ -48,7 +48,7 @@ subtitle = "I Like What I Like"
 [params.sidebar.avatar]
 enabled = true
 local = true
-src = "img/meee.jpg"
+src = "meee.jpg"
 
 [params.article]
 math = false
