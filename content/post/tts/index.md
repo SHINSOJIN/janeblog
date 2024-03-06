@@ -25,15 +25,12 @@ image = "tts-thumbnail.png"
 ## 이미지 모아보기
 
 
-|        제공 기업 목록         |                 
-|:-----------------------:|
-| ![image](corplist.png)  | 
-|          뉴스 목록          |             
-| ![image](newslist.png)  | 
-|           메인            |             
-|  ![image](service.png)  | 
-|           재생            |             
-| ![image](audioplay.png) | 
+|        제공 기업 목록        |         뉴스 목록          |           
+|:----------------------:|:----------------------:|
+| ![image](corplist.png) | ![image](newslist.png) |
+|           메인           |           재생           |  
+| ![image](ttsmain.gif)  |  ![image](ttsplay.gif)  |
+
 
 
 
@@ -59,8 +56,8 @@ image = "tts-thumbnail.png"
 • 뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)  
 • 음성 목소리 선택 가능 (남/여)  
 • 오디오 대본 제공  
-• 오디오 play/pause 기능 
-
+• 오디오 play/pause 기능
+• 재생 조건 및 상태 변경 시 api 요청 취소
 
 ## 어려웠던 점 / 배운점
 

@@ -27,11 +27,15 @@ image = "plog-thumbnail.png"
 
 
 ## 이미지 모아보기
-|                     포스팅 홈                      |                      검색                      |
-|:----------------------------------------------:|:--------------------------------------------:|
-| ![image](../deep-security/deep_main_single.png) |   ![image](../deep-security/deep_main.jpeg)   |
-|                     마이 페이지                     |                  유저 블로그 메인                   |
-|    ![image](../deep-security/deep_store.png)    | ![image](../deep-security/deep_dashboard.png) |
+|            블로그 홈             |           포스팅 검색            |
+|:----------------------------:|:---------------------------:|
+| ![image](plog-thumbnail.png) |  ![image](search_page.png)  |
+|          <b>로그인</b>          |         <b>회원가입</b>         |
+|     ![image](login.png)      |   ![image](join_page.png)   |
+|          <b>포스팅</b>          |        <b>새글 작성</b>         |
+|  ![image](posting_page.png)  | ![image](write_posting.png) |
+|         <b>내 프로그</b>         |        <b>마이 페이지</b>        |
+|    ![image](/myplog.png)     |    ![image](mypage.png)     |
 
 
 ## 설명
