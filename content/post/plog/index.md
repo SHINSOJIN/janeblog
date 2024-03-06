@@ -27,6 +27,7 @@ image = "plog-thumbnail.png"
 
 
 ## 이미지 모아보기
+
 |            블로그 홈             |           포스팅 검색            |
 |:----------------------------:|:---------------------------:|
 | ![image](plog-thumbnail.png) |  ![image](search_page.png)  |
@@ -35,8 +36,7 @@ image = "plog-thumbnail.png"
 |          <b>포스팅</b>          |        <b>새글 작성</b>         |
 |  ![image](posting_page.png)  | ![image](write_posting.png) |
 |         <b>내 프로그</b>         |        <b>마이 페이지</b>        |
-|    ![image](/myplog.png)     |    ![image](mypage.png)     |
-
+|     ![image](myplog.png)     |    ![image](mypage.png)     |
 
 ## 설명
 개발자를 위한, 개발자에 의한 블로그 서비스를 만들고자 했습니다. 개발자의 모든 경험/지식을 나누고 공유함으로써 더 나은 방법을 찾고, 

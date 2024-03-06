@@ -25,12 +25,11 @@ image = "demo-thumbnail.png"
   
 
 ## 이미지 모아보기
-
-|            소개             |                 
+|            소개             |
 |:-------------------------:|
-| ![image](demo_info.png) | 
-|            신청서            |             
-| ![image](demo_form.png) | 
+| ![image](demo_info.png) |
+|            신청서            |
+| ![image](demo_form.png) |
 
 
 ## 설명
