@@ -25,13 +25,20 @@ image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 
 ## 이미지 모아보기
 
-|               메인화면(일부)                |                  회원가입                   |
-|:-------------------------------------:|:---------------------------------------:|
-|   <img src="main.png" width="300"/>   |    <img src="join.png" width="300"/>    |
-|                 뉴스 목록                 |                  뉴스 상세                  |
-| <img src="newslist.png" width="300"/> | <img src="singlenews.png" width="300"/> |
-|                  스크랩                  |                  기업 정보                  |
-|  <img src="scrap.png" width="300"/>   |  <img src="corpinfo.png" width="300"/>  |
+[//]: # ()
+[//]: # (|               메인화면&#40;일부&#41;                |                  회원가입                   |)
+
+[//]: # (|:-------------------------------------:|:---------------------------------------:|)
+
+[//]: # (|   <img src="main.png" width="300"/>   |    <img src="join.png" width="300"/>    |)
+
+[//]: # (|                 뉴스 목록                 |                  뉴스 상세                  |)
+
+[//]: # (| <img src="newslist.png" width="300"/> | <img src="singlenews.png" width="300"/> |)
+
+[//]: # (|                  스크랩                  |                  기업 정보                  |)
+
+[//]: # (|  <img src="scrap.png" width="300"/>   |  <img src="corpinfo.png" width="300"/>  |)
 
 ## 설명
 "뉴스썸, 검색이 필요없는 초개인화 1인신문"이라는 슬로건으로 사용자가 관심있어하는 기업과 뉴스 정보를 추천받을 수 있는 서비스입니다. 
