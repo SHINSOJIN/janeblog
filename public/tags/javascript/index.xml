@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Javascript on WELCOME</title>
-        <link>http://localhost:1313/tags/javascript/</link>
-        <description>Recent content in Javascript on WELCOME</description>
+        <title>javascript on WELCOME</title>
+        <link>https://shinsojin.github.io/tags/javascript/</link>
+        <description>Recent content in javascript on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Plog, 개발자를 위한 블로그 서비스</title>
-        <link>http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</link>
+        <link>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</guid>
-        <description>&lt;img src="http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png" alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png" alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
@@ -31,56 +31,140 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;포스팅 홈&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;검색&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;블로그 홈&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;포스팅 검색&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/deep-security/deep_main_single.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png&#34;
+	width=&#34;2366&#34;
+	height=&#34;1208&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;195&#34;
+		data-flex-basis=&#34;470px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/deep-security/deep_main.jpeg&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page.png&#34;
+	width=&#34;1648&#34;
+	height=&#34;1386&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;118&#34;
+		data-flex-basis=&#34;285px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;마이 페이지&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;유저 블로그 메인&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;로그인&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;회원가입&lt;/b&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/deep-security/deep_store.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login.png&#34;
+	width=&#34;2616&#34;
+	height=&#34;1388&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;188&#34;
+		data-flex-basis=&#34;452px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/deep-security/deep_dashboard.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page.png&#34;
+	width=&#34;2240&#34;
+	height=&#34;1374&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;391px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;포스팅&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;새글 작성&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page.png&#34;
+	width=&#34;2582&#34;
+	height=&#34;1386&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting.png&#34;
+	width=&#34;1102&#34;
+	height=&#34;794&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;333px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;내 프로그&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;마이 페이지&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog.png&#34;
+	width=&#34;1632&#34;
+	height=&#34;1398&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;116&#34;
+		data-flex-basis=&#34;280px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage.png&#34;
+	width=&#34;1660&#34;
+	height=&#34;1390&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;286px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -174,11 +258,11 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
         </item>
         <item>
         <title>읽어주는 경제뉴스, 창업도약패키지 과제</title>
-        <link>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
+        <link>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
-        <description>&lt;img src="http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -191,63 +275,71 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;제공 기업 목록&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/corplist.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
+	width=&#34;720&#34;
+	height=&#34;1484&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;48&#34;
+		data-flex-basis=&#34;116px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/newslist.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
+	width=&#34;720&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;50&#34;
+		data-flex-basis=&#34;120px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;메인&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/service.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;image&#34;
-	
-	
-&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;재생&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/audioplay.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsmain.gif&#34;
+	width=&#34;360&#34;
+	height=&#34;732&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsmain_hud12617cc511b7ae50304fe57d8668492_5454967_480x0_resize_box_1.gif 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsmain_hud12617cc511b7ae50304fe57d8668492_5454967_1024x0_resize_box_1.gif 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;49&#34;
+		data-flex-basis=&#34;118px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsplay.gif&#34;
+	width=&#34;354&#34;
+	height=&#34;730&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsplay_hu358ff8103017d9092bce569b113d7bca_706822_480x0_resize_box_1.gif 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/ttsplay_hu358ff8103017d9092bce569b113d7bca_706822_1024x0_resize_box_1.gif 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;48&#34;
+		data-flex-basis=&#34;116px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -272,7 +364,8 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 &lt;p&gt;• 뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;br&gt;
 • 음성 목소리 선택 가능 (남/여)&lt;br&gt;
 • 오디오 대본 제공&lt;br&gt;
-• 오디오 play/pause 기능&lt;/p&gt;
+• 오디오 play/pause 기능
+• 재생 조건 및 상태 변경 시 api 요청 취소&lt;/p&gt;
 &lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
 &lt;h4 id=&#34;새로운-프론트-프레임워크-사용&#34;&gt;새로운 프론트 프레임워크 사용&lt;/h4&gt;
 &lt;p&gt;난이도가 높은 프로젝트가 아니었고 회사의 기술 선택 자유도는 높은 편이었기 때문에 익숙하게 사용하던 React 대신 &lt;code&gt;Vue&lt;/code&gt;를 사용해보기로 했습니다.&lt;br&gt;
@@ -293,12 +386,80 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 </description>
         </item>
         <item>
+        <title>뉴스썸</title>
+        <link>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</link>
+        <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post 뉴스썸" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;메인화면(일부)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;회원가입&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;main.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;join.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 상세&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;newslist.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;singlenews.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;스크랩&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;기업 정보&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;scrap.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;corpinfo.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;뉴스썸, 검색이 필요없는 초개인화 1인신문&amp;quot;이라는 슬로건으로 사용자가 관심있어하는 기업과 뉴스 정보를 추천받을 수 있는 서비스입니다.
+&lt;a class=&#34;link&#34; href=&#34;https://www.newssum.co.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;회원가입유저&#34;&gt;회원가입/유저&lt;/h3&gt;
+&lt;p&gt;• 사용자 정보 입력 폼 유효성 체크&lt;br&gt;
+• PASS 본인인증 연동&lt;br&gt;
+• 신청자 정보 어드민 페이지와 연동&lt;br&gt;
+• 신청 현황 메일링 기능&lt;/p&gt;
+&lt;h3 id=&#34;뉴스&#34;&gt;뉴스&lt;/h3&gt;
+&lt;p&gt;• 경제뉴스를 금융,산업, 테마 3개로 분류하여 재카테고라징
+• 당일 산업/테마 순위 및 관련 뉴스 정보 제공
+• 종목(상장사)에 대한 주가 및 시황 정보 제공
+• AI가 개별 뉴스에 대한 종목, 키워드, 감정 분석 결과를 보여줌&lt;/p&gt;
+&lt;h3 id=&#34;관심-등록&#34;&gt;관심 등록&lt;/h3&gt;
+&lt;p&gt;• 회원이 관심있어하는 기업 추가/삭제
+• 관심있는 뉴스 북마크 추가/삭제
+• 뉴스 스크랩 및 카테고리 분류 기능
+• 스크랩한 뉴스 공유 기능 (메일 발송)
+• 개별 뉴스 주소 카카오톡 및 메일 공유&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AI demo 랜딩 페이지 개발</title>
-        <link>http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</link>
+        <link>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</link>
         <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</guid>
-        <description>&lt;img src="http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.png" alt="Featured image of post AI demo 랜딩 페이지 개발" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.png" alt="Featured image of post AI demo 랜딩 페이지 개발" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -315,14 +476,18 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/demo_info.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;1070&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;242px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -330,14 +495,18 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;td style=&#34;text-align:center&#34;&gt;신청서&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/demo_form.png&#34;
-	
-	
-	
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;404&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;267&#34;
+		data-flex-basis=&#34;641px&#34;
 	
 &gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -357,11 +526,11 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
         </item>
         <item>
         <title>DEEP:SECURITY</title>
-        <link>http://localhost:1313/post/deepsecurity/</link>
+        <link>https://shinsojin.github.io/post/deepsecurity/</link>
         <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/deepsecurity/</guid>
-        <description>&lt;img src="http://localhost:1313/post/deepsecurity/deepnoid-thumbnail.png" alt="Featured image of post DEEP:SECURITY" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>https://shinsojin.github.io/post/deepsecurity/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/deepsecurity/deepnoid-thumbnail.png" alt="Featured image of post DEEP:SECURITY" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -379,10 +548,10 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_main_single.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single.png&#34;
 	width=&#34;2474&#34;
 	height=&#34;1386&#34;
-	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -393,10 +562,10 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 		data-flex-basis=&#34;428px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_main.jpeg&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main.jpeg&#34;
 	width=&#34;930&#34;
 	height=&#34;522&#34;
-	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_480x0_resize_q75_box.jpeg 480w, http://localhost:1313/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_480x0_resize_q75_box.jpeg 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -413,10 +582,10 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;td style=&#34;text-align:center&#34;&gt;대시보드&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_store.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store.png&#34;
 	width=&#34;2480&#34;
 	height=&#34;1388&#34;
-	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -427,10 +596,10 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 		data-flex-basis=&#34;428px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_dashboard.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard.png&#34;
 	width=&#34;1760&#34;
 	height=&#34;988&#34;
-	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
