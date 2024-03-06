@@ -17,11 +17,16 @@ image = "polistar-tutorial.png"
 ## 기술 스택
 - **프론트엔드 :**
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="display:inline;">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="display:inline;">
+  <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="display:inline;">
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" style="display:inline;">
 
 ## 이미지 모아보기
+|                    로그인                     |                메인(리포트)                 |
+|:------------------------------------------:|:--------------------------------------:|
+|  <img src="loginvideo.gif" width="300"/>   | <img src="mainvideo.gif" width="300"/> |
+|                   뉴스 목록                    |                  문의사항                  |
+| <img src="newslistvideo.gif" width="300"/> | <img src="qnavideo.gif" width="300"/>  |
 
 
 ## 설명
@@ -30,7 +35,6 @@ image = "polistar-tutorial.png"
 
 
 ## 기능
-
 
 • 전용 코드를 통해 구독자와 당사자 구분  
 • 인물에 대한 실시간 뉴스 제공   

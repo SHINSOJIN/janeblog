@@ -28,9 +28,9 @@ image = "demo-thumbnail.png"
 
 |            소개             |                 
 |:-------------------------:|
-| ![image](./demo_info.png) | 
+| ![image](demo_info.png) | 
 |            신청서            |             
-| ![image](./demo_form.png) | 
+| ![image](demo_form.png) | 
 
 
 ## 설명

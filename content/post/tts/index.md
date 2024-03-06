@@ -25,15 +25,15 @@ image = "tts-thumbnail.png"
 ## 이미지 모아보기
 
 
-|         제공 기업 목록          |                 
-|:-------------------------:|
-| ![image](./corplist.png)  | 
-|           뉴스 목록           |             
-| ![image](./newslist.png)  | 
-|            메인             |             
-|  ![image](./service.png)  | 
-|            재생             |             
-| ![image](./audioplay.png) | 
+|        제공 기업 목록         |                 
+|:-----------------------:|
+| ![image](corplist.png)  | 
+|          뉴스 목록          |             
+| ![image](newslist.png)  | 
+|           메인            |             
+|  ![image](service.png)  | 
+|           재생            |             
+| ![image](audioplay.png) | 
 
 
 
