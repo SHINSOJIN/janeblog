@@ -15,15 +15,15 @@ title = "WELCOME"
 weight = 1
 
 [languages.en.params]
-description = "Example description"
+description = "개발 여정을 기록하기 위한 블로그"
 
 [languages.zh-cn]
 languageName = "中文"
-title = "WELCOME"
+title = "欢迎光临"
 weight = 2
 
 [languages.zh-cn.params]
-description = "演示说明"
+description = "开发历程记录博客"
 
 [permalinks]
 post = "/post/:slug/"
