@@ -22,16 +22,11 @@ image = "polistar-tutorial.png"
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" style="display:inline;">
 
 ## 이미지 모아보기
-
-[//]: # (|                    로그인                     |                메인&#40;리포트&#41;                 |)
-
-[//]: # (|:------------------------------------------:|:--------------------------------------:|)
-
-[//]: # (|  <img src="loginvideo.gif" width="300"/>   | <img src="mainvideo.gif" width="300"/> |)
-
-[//]: # (|                   뉴스 목록                    |                  문의사항                  |)
-
-[//]: # (| <img src="newslistvideo.gif" width="300"/> | <img src="qnavideo.gif" width="300"/>  |)
+|                    로그인                     |                메인(리포트)                 |
+|:------------------------------------------:|:--------------------------------------:|
+|  <img src="loginvideo.gif" width="300"/>   | <img src="mainvideo.gif" width="300"/> |
+|                   뉴스 목록                    |                  문의사항                  |
+| <img src="newslistvideo.gif" width="300"/> | <img src="qnavideo.gif" width="300"/>  |
 
 
 ## 설명
